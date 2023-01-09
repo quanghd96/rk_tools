@@ -17,6 +17,7 @@ struct chip {
 	{"rk31", 0x33313241}, /* default to RK3128 */
 	{"rk32", 0x80},
 	{"rk33", 0x33333043}, /* default to RK3399 */
+	{"rkpx30", 0x50583330}, /* default to RKPX30 */
 	{NULL, 0x00},
 };
 
